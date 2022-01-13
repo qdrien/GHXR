@@ -1,7 +1,9 @@
 # GHXR - Grasshopper Plugin ![Logo GHXR](GHXR/GHXRGH/Resources/logo.png "Logo GHXR")
 
-Connects Grasshopper to GHXR modules (or potentially other software) via MQTT. 
+Connects Grasshopper to GHXR modules (or potentially other software) via MQTT.
 Sends meshes and parameters and receives parameter value updates.
+
+Example VR client: https://github.com/qdrien/GHXRVR
 
 By default, the plugin uses respectively the `GHXRTable/Meshes`, `GHXRTable/ParameterShare` and `GHXRTable/ParameterControl` topics to do so, on the `localhost` broker.
 
