@@ -91,3 +91,6 @@ The _GrasshopperDeveloperSettings Rhino command can be used to do so (to avoid c
 - Enable SSL?
 - Optimise data format? (e.g. FlatBuffers instead of JSON)
     - Probably not worth it since the bottleneck will still likely be GH's re-computation time and it would make the code slightly more complex (in addition to rendering the data unreadable by humans). 
+
+---
+Logo created based on icons by Freepik, downloaded from [Flaticon](https://www.flaticon.com/).
