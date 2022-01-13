@@ -9,8 +9,8 @@ In order to use the plugin, the whole output of the bin/ folder must be loaded i
 The _GrasshopperDeveloperSettings Rhino command can be used to do so (to avoid copying the files to the default location for GH libraries).
 
 
-##Data format
-####Meshes:
+## Data format
+#### Meshes:
 ```json
 [
     {
@@ -51,7 +51,7 @@ The _GrasshopperDeveloperSettings Rhino command can be used to do so (to avoid c
     {...} //other meshes
 ]
 ```
-####Parameters:
+#### Parameters:
 ```json
 [
     {
@@ -79,7 +79,7 @@ The _GrasshopperDeveloperSettings Rhino command can be used to do so (to avoid c
 
 
 ---
-####TODO list:
+#### TODO list:
 - Refactor the code to split the behaviour into more classes and methods.
 - Support more parameter types?
 - Find a solution to prevent the warnings when expiring the solution from within the SolveInstance method
