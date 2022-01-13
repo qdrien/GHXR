@@ -1,0 +1,1 @@
+[{"Value":5.0,"Accuracy":0,"Min":0.0,"Max":10.0,"Epsilon":0.01,"DecimalPlaces":2,"Type":"slider","Name":"Number Slider","NickName":"BaseScaleFactor","Guid":"b00f80be-934e-45f9-9bff-c31ba3baa93d"},{"Value":false,"Type":"toggle","Name":"Boolean Toggle","NickName":"DoubleScaleToggle","Guid":"b794de8d-9255-45a8-8043-406b9e464f9e"}]

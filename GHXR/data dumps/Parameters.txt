@@ -1,0 +1,1 @@
+[{"Value":4.0,"Accuracy":1,"Min":0.0,"Max":10.0,"Epsilon":1.0,"DecimalPlaces":3,"Type":"slider","Name":"Number Slider","NickName":"","Guid":"13c7e8a8-c1e0-4e84-8eee-175a2878ebc8"},{"Value":false,"Type":"toggle","Name":"Boolean Toggle","NickName":"Togglenickname","Guid":"0c322b3b-be2f-48de-8d9a-4fac20ec5ad3"}]

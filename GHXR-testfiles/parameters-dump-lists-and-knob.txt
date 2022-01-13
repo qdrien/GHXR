@@ -1,0 +1,108 @@
+[{
+	"Values": [{
+		"Expression": "1",
+		"Selected": false,
+		"Name": "One"
+	}, {
+		"Expression": "2",
+		"Selected": false,
+		"Name": "Two"
+	}, {
+		"Expression": "2² - 1",
+		"Selected": true,
+		"Name": "Three"
+	}, {
+		"Expression": "Sqrt(16)",
+		"Selected": false,
+		"Name": "Four"
+	}, {
+		"Expression": "\"\"",
+		"Selected": false,
+		"Name": "a"
+	}],
+	"ListMode": 1,
+	"Type": "list",
+	"Name": "Value List",
+	"NickName": "List-drop",
+	"Guid": "c5ccc439-925a-441b-b13f-c68711786a6f"
+}, {
+	"Values": [{
+		"Expression": "one checked",
+		"Selected": true,
+		"Name": "One-checked"
+	}, {
+		"Expression": "two unchecked",
+		"Selected": false,
+		"Name": "Two"
+	}],
+	"ListMode": 0,
+	"Type": "list",
+	"Name": "Value List",
+	"NickName": "List-check",
+	"Guid": "38373386-a699-4f38-a8ff-8a299ac69647"
+}, {
+	"Values": [{
+		"Expression": "1",
+		"Selected": false,
+		"Name": "One"
+	}, {
+		"Expression": "2",
+		"Selected": false,
+		"Name": "Two"
+	}, {
+		"Expression": "2² - 1",
+		"Selected": true,
+		"Name": "Three"
+	}, {
+		"Expression": "Sqrt(16)",
+		"Selected": false,
+		"Name": "Four"
+	}, {
+		"Expression": "\"\"",
+		"Selected": false,
+		"Name": "a"
+	}],
+	"ListMode": 2,
+	"Type": "list",
+	"Name": "Value List",
+	"NickName": "List-seq",
+	"Guid": "8349c15d-b99c-4042-95f8-19992b11a570"
+}, {
+	"Values": [{
+		"Expression": "1",
+		"Selected": false,
+		"Name": "One"
+	}, {
+		"Expression": "2",
+		"Selected": false,
+		"Name": "Two"
+	}, {
+		"Expression": "2² - 1",
+		"Selected": true,
+		"Name": "Three"
+	}, {
+		"Expression": "Sqrt(16)",
+		"Selected": false,
+		"Name": "Four"
+	}, {
+		"Expression": "\"\"",
+		"Selected": false,
+		"Name": "a"
+	}],
+	"ListMode": 3,
+	"Type": "list",
+	"Name": "Value List",
+	"NickName": "List-cycle",
+	"Guid": "49a39f4c-3331-4c18-84f9-419ff9afc15d"
+}, {
+	"Value": 0.9,
+	"Decimals": 2,
+	"Range": 1.0,
+	"LimitKnobValue": true,
+	"Min": 0.0,
+	"Max": 10.0,
+	"Type": "knob",
+	"Name": "Control Knob",
+	"NickName": "Knob",
+	"Guid": "a9c1560f-38bd-4af0-ac53-7cd49441000f"
+}]
